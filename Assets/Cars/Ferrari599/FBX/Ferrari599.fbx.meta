@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: bb4c030af83bec746907a146558609da
+labels:
+- Car
+- Sport
+- Vehicle
+- Racer
+- Lowpoly
+- Lod
+- Hardsurface
+- Wheel
+- Auto
+- Automobile
+- Game
+- Mobile
+- Ride
+- Chase
+- Run
+- Drift
+- Fast
+- Sports
+- Race
+- Wheels
+- Interior
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body_15_Ferrari588
+    100002: //RootNode
+    100004: Glass_15_Ferrari588
+    100006: Matte_15_Ferrari588
+    100008: Taillight_15_Ferrari588
+    100010: Wheel_Back
+    100012: Wheel_L
+    100014: Wheel_R
+    100016: Body_15
+    100018: Glass_15
+    100020: Matte_15
+    100022: Ref_15
+    100024: Taillight_15
+    100026: Wheel_15_BL
+    100028: Wheel_15_BR
+    100030: Wheel_15_L
+    100032: Wheel_15_R
+    100034: Glass_light
+    100036: Wheel_Back_L
+    100038: Wheel_Back_R
+    400000: Body_15_Ferrari588
+    400002: //RootNode
+    400004: Glass_15_Ferrari588
+    400006: Matte_15_Ferrari588
+    400008: Taillight_15_Ferrari588
+    400010: Wheel_Back
+    400012: Wheel_L
+    400014: Wheel_R
+    400016: Body_15
+    400018: Glass_15
+    400020: Matte_15
+    400022: Ref_15
+    400024: Taillight_15
+    400026: Wheel_15_BL
+    400028: Wheel_15_BR
+    400030: Wheel_15_L
+    400032: Wheel_15_R
+    400034: Glass_light
+    400036: Wheel_Back_L
+    400038: Wheel_Back_R
+    2300000: Body_15_Ferrari588
+    2300002: Glass_15_Ferrari588
+    2300004: Matte_15_Ferrari588
+    2300006: Taillight_15_Ferrari588
+    2300008: Wheel_Back
+    2300010: Wheel_L
+    2300012: Wheel_R
+    2300014: Body_15
+    2300016: Glass_15
+    2300018: Matte_15
+    2300020: Ref_15
+    2300022: Taillight_15
+    2300024: Wheel_15_BL
+    2300026: Wheel_15_BR
+    2300028: Wheel_15_L
+    2300030: Wheel_15_R
+    2300032: Glass_light
+    2300034: Wheel_Back_L
+    2300036: Wheel_Back_R
+    3300000: Body_15_Ferrari588
+    3300002: Glass_15_Ferrari588
+    3300004: Matte_15_Ferrari588
+    3300006: Taillight_15_Ferrari588
+    3300008: Wheel_Back
+    3300010: Wheel_L
+    3300012: Wheel_R
+    3300014: Body_15
+    3300016: Glass_15
+    3300018: Matte_15
+    3300020: Ref_15
+    3300022: Taillight_15
+    3300024: Wheel_15_BL
+    3300026: Wheel_15_BR
+    3300028: Wheel_15_L
+    3300030: Wheel_15_R
+    3300032: Glass_light
+    3300034: Wheel_Back_L
+    3300036: Wheel_Back_R
+    4300000: Wheel_R
+    4300002: Wheel_L
+    4300004: Matte_15_Ferrari588
+    4300006: Taillight_15_Ferrari588
+    4300008: Glass_15_Ferrari588
+    4300010: Body_15_Ferrari588
+    4300012: Wheel_Back
+    4300014: Glass_15
+    4300016: Ref_15
+    4300018: Wheel_15_BL
+    4300020: Body_15
+    4300022: Taillight_15
+    4300024: Matte_15
+    4300026: Wheel_15_R
+    4300028: Wheel_15_BR
+    4300030: Wheel_15_L
+    4300032: Glass_light
+    4300034: Wheel_Back_R
+    4300036: Wheel_Back_L
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

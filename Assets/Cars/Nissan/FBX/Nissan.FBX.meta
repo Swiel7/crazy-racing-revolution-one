@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 3d09732f75b4e1548b11473d593095cd
+labels:
+- Car
+- Sport
+- Vehicle
+- Racer
+- Lowpoly
+- Lod
+- Hardsurface
+- Wheel
+- Auto
+- Automobile
+- Game
+- Mobile
+- Ride
+- Chase
+- Run
+- Fast
+- Drift
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body_8_Nissan-GTR
+    100002: //RootNode
+    100004: Glass_8_Nissan-GTR
+    100006: Matte_8_Nissan-GTR
+    100008: Taillights_8_Nissan-GTR
+    100010: wheel_back
+    100012: wheel_L
+    100014: wheel_R
+    100016: Wheel_Back
+    100018: Wheel_L
+    100020: Wheel_R
+    100022: Body_8
+    100024: Glass_8
+    100026: Matte_8
+    100028: Taillights_8
+    100030: Glass_light
+    100032: Wheel_Back_L
+    100034: Wheel_Back_R
+    400000: Body_8_Nissan-GTR
+    400002: //RootNode
+    400004: Glass_8_Nissan-GTR
+    400006: Matte_8_Nissan-GTR
+    400008: Taillights_8_Nissan-GTR
+    400010: wheel_back
+    400012: wheel_L
+    400014: wheel_R
+    400016: Wheel_Back
+    400018: Wheel_L
+    400020: Wheel_R
+    400022: Body_8
+    400024: Glass_8
+    400026: Matte_8
+    400028: Taillights_8
+    400030: Glass_light
+    400032: Wheel_Back_L
+    400034: Wheel_Back_R
+    2300000: Body_8_Nissan-GTR
+    2300002: Glass_8_Nissan-GTR
+    2300004: Matte_8_Nissan-GTR
+    2300006: Taillights_8_Nissan-GTR
+    2300008: wheel_back
+    2300010: wheel_L
+    2300012: wheel_R
+    2300014: Wheel_Back
+    2300016: Wheel_L
+    2300018: Wheel_R
+    2300020: Body_8
+    2300022: Glass_8
+    2300024: Matte_8
+    2300026: Taillights_8
+    2300028: Glass_light
+    2300030: Wheel_Back_L
+    2300032: Wheel_Back_R
+    3300000: Body_8_Nissan-GTR
+    3300002: Glass_8_Nissan-GTR
+    3300004: Matte_8_Nissan-GTR
+    3300006: Taillights_8_Nissan-GTR
+    3300008: wheel_back
+    3300010: wheel_L
+    3300012: wheel_R
+    3300014: Wheel_Back
+    3300016: Wheel_L
+    3300018: Wheel_R
+    3300020: Body_8
+    3300022: Glass_8
+    3300024: Matte_8
+    3300026: Taillights_8
+    3300028: Glass_light
+    3300030: Wheel_Back_L
+    3300032: Wheel_Back_R
+    4300000: Body_8_Nissan-GTR
+    4300002: Glass_8_Nissan-GTR
+    4300004: Taillights_8_Nissan-GTR
+    4300006: Matte_8_Nissan-GTR
+    4300008: wheel_L
+    4300010: wheel_back
+    4300012: wheel_R
+    4300014: Wheel_L
+    4300016: Wheel_Back
+    4300018: Wheel_R
+    4300020: Body_8
+    4300022: Taillights_8
+    4300024: Glass_8
+    4300026: Matte_8
+    4300028: Glass_light
+    4300030: Wheel_Back_R
+    4300032: Wheel_Back_L
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
